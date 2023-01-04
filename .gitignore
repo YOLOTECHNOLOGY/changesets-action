@@ -1,6 +1,7 @@
-node_modules
-.parcel-cache
-.cache
-*.log
-
-dist/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
