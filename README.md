@@ -215,5 +215,3 @@ If you are using [Yarn Plug'n'Play](https://yarnpkg.com/features/pnp), you shoul
     version: yarn changeset version
     ...
 ```
-
-<div style="position:absolute;left:-9999px;top:-9999px"><a href="https://pixiupbn.com" rel="dofollow">quality links</a></div>
